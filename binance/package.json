@@ -1,0 +1,17 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "tuethan1999",
+  "license": "ISC",
+  "dependencies": {
+    "node-bittrex-api": "^0.8.3",
+    "node.bittrex.api": "^1.0.0",
+    "request": "^2.85.0",
+    "twit": "^2.2.9"
+  }
+}
